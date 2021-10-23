@@ -30,7 +30,7 @@ discord
 ```
 - 📫 How to reach me: 
 ```
-The bes way to contact me is through discord. My username is ath0rus#0001 or you can join my server. You can also email me.
+The best way to contact me is through discord. My username is ath0rus#0001 or you can join my server. You can also email me.
 ```
 <!--- ⚡ Fun fact: ... -->
 
