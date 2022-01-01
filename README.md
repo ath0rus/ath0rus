@@ -11,6 +11,8 @@ Cyber Security
 Netowrking
 Cryptography
 Python, C# and Arduino
+Blender
+Game dev in Unity
 ```
 - 👯 I’m looking to collaborate on 
 ```
