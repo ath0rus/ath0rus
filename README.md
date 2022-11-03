@@ -38,4 +38,5 @@ The best way to contact me is through discord. My username is ath0rus#0001 or yo
 
 - 🌐Links\
 [Discord serer](http://discord.ath0rus.com)\
-[Email](mailto:ath0rus117@gmail.com)
+[Email](mailto:ath0rus117@gmail.com) (I may not respond straight away)\
+[Urgent emails](mailto:contact@ath0rus.com) (No Spam/junk/promtion)
