@@ -3,7 +3,8 @@ My name is ath0rus, Here you will find out a little bit about me
 
 - 📚 I’m currently studying 
 ```
-Certificate 4 in IT (Networking)
+Try Hack Me
+[My profile](https://tryhackme.com/p/ath0rus)
 ```
 - 🌱 I’m currently learning
 ```
