@@ -3,22 +3,21 @@ My name is ath0rus, Here you will find out a little bit about me
 
 - 📚 I’m currently studying
 ```
-Try Hack Me
-https://tryhackme.com/p/ath0rus
+Nothing in particular, But im always learning
 ```
 - 🌱 I’m currently learning
   
 ```
+Blender
 Cyber Security
-Netowrking
+Networking
 Cryptography
 Python, C# and Arduino
-Blender
-Game dev in Unity
+assets for Game dev in Unity
 ```
 - 👯 I’m looking to collaborate on 
 ```
-If you see a project here that you want to join feel free to message me or even fork the repo
+If you see a project here that you want to join feel free to message me on discord (@ath0rus) and mention here
 ```
 - 🤔 I’m looking for help with 
 ```
@@ -39,5 +38,5 @@ The best way to contact me is through discord. My username is @ath0rus or you ca
 <!--- ⚡ Fun fact: ... -->
 
 - 🌐Links\
-[Discord serer](https://discord.gg/GXH4RtGnnw) (click on the cat emoji after you have read the rules)\
+[Discord serer](https://discord.gg/GXH4RtGnnw) (follow the onboarding instructions to for CordlessCat)<br>
 [Email](mailto:github@ath0rus.media) (I may not respond straight away)
