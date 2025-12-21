@@ -9,11 +9,6 @@ Nothing in particular, But im always learning
   
 ```
 Blender
-Cyber Security
-Networking
-Cryptography
-Python, C# and Arduino
-assets for Game dev in Unity
 ```
 - 👯 I’m looking to collaborate on 
 ```
@@ -25,11 +20,8 @@ I am looking for someone who is willing to help me with some projects in C#, Pyt
 ```
 - 💬 Ask me about
 ```
-Cyber security
-python
 Blender
-Arduino
-discord
+Game level design/prop creatio
 ```
 - 📫 How to reach me: 
 ```
